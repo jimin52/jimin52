@@ -27,7 +27,7 @@ web backend & server management
 
 <br/>
 <div align='center'>
-  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhMin95&hide=python&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
+  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhMin95&hide=python&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
 </div>
 
 <br/>
