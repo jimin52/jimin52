@@ -22,12 +22,12 @@ web backend & server management
 ### 2. Github Doing & Problem Solving
 
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=jhMin95&margin-w=15&row=2&column=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=jimin52&margin-w=15&row=2&column=4">
 </div>
 
 <br/>
 <div align='center'>
-  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhMin95&hide=python&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
+  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimin52&hide=python&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
 </div>
 
 <br/>
@@ -54,7 +54,7 @@ web backend & server management
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=WordPress&logoColor=white"/>
 </p>  
 <p align=center>
-  <a href="https://github.com/jhMin95"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://github.com/jimin52"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=Blogger&logoColor=white"/>
 </p>
 
