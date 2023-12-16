@@ -15,6 +15,8 @@ web backend & server management
 
 - 💼 BackEnd Engineer at [Seoul42](https://42seoul.kr/seoul42/main/view)
 
+- Backend Development at [Jiphyeonjeon](https://github.com/jiphyeonjeon-42/backend)
+
 - 📈 Noting what I have studied down and sharing it ⬇️
 
 <br/>
